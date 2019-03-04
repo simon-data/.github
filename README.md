@@ -20,10 +20,28 @@ Reach out for more information at my-project-name@simondata.com
 
 ## Documentation
 
+### Dependencies and Requirements
+
+
 ### Building
+```sh
+$ ./compile.sh
+```
+
 ### Installing
+```sh
+$ ./install.sh
+```
+
 ### Run Tests
+```sh
+$ run tests
+```
 ### Usage Examples
+```py
+import file
+invoke_function()
+```
 
 ## Contributing
 See CONTRIBUTING.md
