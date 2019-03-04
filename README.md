@@ -1,5 +1,9 @@
 # [Project Name]
 
+[![Build Status](https://travis-ci.org/package-name.svg?branch=master)](https://travis-ci.org/package-name)
+[![Download](https://api.bintray.com/packages/package-name/images/download.svg)](https://bintray.com/package-name/_latestVersion)
+
+
 ```
    _____ _                          ____        __       
   / ___/(_)___ ___  ____  ____     / __ \____ _/ /_____ _
