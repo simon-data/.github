@@ -1,0 +1,4 @@
+# example travis file
+branches:
+  only:
+    - "master"
