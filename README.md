@@ -1,4 +1,4 @@
-# Simon Open Source Project Template __delete me__
+# Simon Open Source Project Template (delete me)
 
 - [`ADOPTERS.md`](ADOPTERS.md) - list of project adopters, other companies who may use this package.
 - [`CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md) - code of conduct
