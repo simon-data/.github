@@ -1,3 +1,11 @@
+# Simon Open Source Project Template __delete me__
+
+- [`ADOPTERS.md`](ADOPTERS.md) - list of project adopters, other companies who may use this package.
+- [`CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md) - code of conduct
+- [`CONTRIBUTING.md`](CONTRIBUTING.md) - contributing guide
+- [`LICENSE`](LICENSE) - our standard [Apache 2.0 license](https://www.apache.org/licenses/LICENSE-2.0)
+
+
 # [Project Name]
 
 [![Build Status](https://travis-ci.org/package-name.svg?branch=master)](https://travis-ci.org/package-name)
@@ -19,13 +27,13 @@
 Reach out for more information at my-project-name@simondata.com
 
 ## Core Contributors
-* @username1
-* @username2
+* Engineer Name: @username1
+* Engineer Name: @username2
 
 ## Documentation
 
 ### Dependencies and Requirements
-
+[this project is designed to be run on Python 3, etc...]
 
 ### Building
 ```sh
@@ -48,7 +56,8 @@ invoke_function()
 ```
 
 ## Contributing
-See CONTRIBUTING.md
+We welcome contributions including bug reports, security issues, fixes, new features, and enhancements.
+See [`CONTRIBUTING.md`](CONTRIBUTING.md) for more information on how to help.
 
 ## About Simon Data
 Simon Data is the first and only enterprise customer data platform with a fully-integrated marketing cloud. Our platform empowers businesses to leverage enterprise-scale big data and machine learning to power customer communications in any channel. Simon’s unique approach allows brands to develop incredible personalization capabilities.
